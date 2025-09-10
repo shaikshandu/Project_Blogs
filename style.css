@@ -91,9 +91,8 @@
       font-weight: bold;
       transition: background 0.3s ease, transform 0.2s ease;
     }
-</style>
     .blog-post a:hover {
       background: #fbc02d;
       transform: scale(1.05);
     }
-
+</style>
