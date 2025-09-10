@@ -1,10 +1,13 @@
 <style>
     body {
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to right, #0d47a1, #1976d2, #42a5f5);
-      color: #fff;
-    }
+     body {
+  margin: 0;
+  padding: 0;
+  background-image: url("images/bg.jpg"); /* Path to your image */
+  background-size: cover;   /* Makes image cover the whole page */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents tiling */
+}
 
     .blog-container {
       max-width: 1000px;
