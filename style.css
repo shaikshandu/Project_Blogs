@@ -1,12 +1,11 @@
 <style>
-   body {
-     margin: 0;
-     padding: 0;
-     background-image: url("images/bg.jpg"); /* Path to your image */
-     background-size: cover;   /* Makes image cover the whole page */
-      background-position: center; /* Centers the image */
-      background-repeat: no-repeat; /* Prevents tiling */
-   }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-image: url("images/bg.jpg");
+      color: #fff;
+    }
+
 
     .blog-container {
       max-width: 1000px;
