@@ -1,10 +1,11 @@
 <style>
-    body {
+   body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-image: url("blogspages/images/bg.jpg");
+      background: linear-gradient(to right, #0d47a1, #1976d2, #42a5f5);
       color: #fff;
     }
+
 
 
     .blog-container {
